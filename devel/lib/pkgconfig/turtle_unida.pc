@@ -1,0 +1,8 @@
+prefix=C:/kevin_acosta/devel
+
+Name: turtle_unida
+Description: Description of turtle_unida
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+turtle_unida
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\kevin_acosta\devel -DCMAKE_INSTALL_PREFIX=C:\kevin_acosta\install -G Ninja
